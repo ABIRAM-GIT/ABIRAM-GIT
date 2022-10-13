@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABIRAM-GIT
 - 👀 I’m interested in Software Devolopment and Data Science
-- 🌱 I’m currently learning Swift and Hacking through Proramming
+- 🌱 I’m currently learning Swift and Hacking through Programming
 - 💞️ I’m looking to collaborate on projects releted to C language and Python
 - 📫 Reach me at ramabi2002@gmail.com
 
